@@ -8,8 +8,8 @@ A7MD.on("guildMemberAdd", member => {
   return channel.send(` 
 **
 سلام عليكم 
-ممكن اخطفك لي ذا السيرفر
-                               [ https://discord.gg/DJkX4kf ] 
+ذا السيرفر يبيع تقريا جميع الأشياء فوت لو ما عجبك اطلع
+                               [ https://discord.gg/xbAn357 ] 
 الدعووة خاصة لك ... [ ${member}  ]
 **`) 
 }).catch(console.error)
