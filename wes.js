@@ -9,7 +9,7 @@ A7MD.on("guildMemberAdd", member => {
 **
 سلام عليكم 
 ذا السيرفر يبيع تقريا جميع الأشياء فوت لو ما عجبك اطلع
-                               [ https://discord.gg/xbAn357 ] 
+                               [ https://discord.gg/QHHa2Qs ] 
 الدعووة خاصة لك ... [ ${member}  ]
 **`) 
 }).catch(console.error)
