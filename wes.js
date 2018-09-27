@@ -8,7 +8,7 @@ A7MD.on("guildMemberAdd", member => {
   return channel.send(` 
 **
 سلام عليكم 
-ذا السيرفر يبيع تقريا جميع الأشياء فوت لو ما عجبك اطلع
+مكان راقي ندعوك له :sparkles:
                                [ https://discord.gg/QHHa2Qs ] 
 الدعووة خاصة لك ... [ ${member}  ]
 **`) 
