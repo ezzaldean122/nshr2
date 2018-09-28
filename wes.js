@@ -9,7 +9,7 @@ A7MD.on("guildMemberAdd", member => {
 **
 سلام عليكم 
 مكان راقي ندعوك له :sparkles:
-                               [ https://discord.gg/GNTbYy6 ] 
+                               [ https://discord.gg/z9pYjZ ] 
 الدعووة خاصة لك ... [ ${member}  ]
 **`) 
 }).catch(console.error)
