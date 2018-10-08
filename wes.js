@@ -14,7 +14,7 @@ var x_x = "ss" //هنا تحط الامر اللي يشغل الهاك
 
 client.on('message', message => {
  if (message.content === x_x) {
-  client.user.setAvatar(`https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png`)
+  client.user.setAvatar(`https://cdn.discordapp.com/icons/461150945468874752/4a43b290d73f2bc09accf0ab252426f9.jpg?size=128`)
 
  }
 });
